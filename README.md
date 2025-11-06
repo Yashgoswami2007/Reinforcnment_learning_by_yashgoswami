@@ -130,16 +130,11 @@ Commit your changes
 
 Push to your fork and submit a pull request
 
-⚖️ License
-
-This project is open-source under the MIT License.
-You can freely use, modify, and distribute it with proper credit.
-
 📫 Contact
 
 Author: Yash Goswami
 
-Email: (add if you want)
+Email: yashgoswami2007km@gmail.com
 GitHub Repo: S.T.E.E.R_reinforcement_learning
 
 “Every line of code teaches the agent something new — and the coder, even more.”
