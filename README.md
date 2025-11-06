@@ -1,4 +1,4 @@
-# S.T.E.E.R – Reinforcement Learning  
+# S.T.E.E.R – simulated training environment for reinforcement learning 
 **Author:** [Yash Goswami](https://github.com/Yashgoswami2007)  
 **Repository:** [S.T.E.E.R_reinforcement_learning](https://github.com/Yashgoswami2007/S.T.E.E.R_reinforcement_learning)
 
